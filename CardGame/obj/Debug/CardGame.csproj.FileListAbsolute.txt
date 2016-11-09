@@ -1,0 +1,6 @@
+c:\users\jiyoon oh\documents\visual studio 2015\Projects\CardGame\CardGame\bin\Debug\CardGame.exe.config
+c:\users\jiyoon oh\documents\visual studio 2015\Projects\CardGame\CardGame\bin\Debug\CardGame.exe
+c:\users\jiyoon oh\documents\visual studio 2015\Projects\CardGame\CardGame\bin\Debug\CardGame.pdb
+c:\users\jiyoon oh\documents\visual studio 2015\Projects\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+c:\users\jiyoon oh\documents\visual studio 2015\Projects\CardGame\CardGame\obj\Debug\CardGame.exe
+c:\users\jiyoon oh\documents\visual studio 2015\Projects\CardGame\CardGame\obj\Debug\CardGame.pdb
